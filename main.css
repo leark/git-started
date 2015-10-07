@@ -3,9 +3,12 @@ body
     font-family: Helvetica, sans-serif;
     font-size: 18px;
     overflow: hidden;
+    margin-left: 18px;
+    background-image: url("img/tile.png");
+    background-repeat: repeat;
 }
 
-h1, .umaru, a
+h1, a
 {
 	color: #FF8C00;
 	font-weight: bold;
@@ -21,7 +24,6 @@ img
 {
 	width: 47%;
 	float: left;
-	margin-left: 10px;
 }
 
 #right
